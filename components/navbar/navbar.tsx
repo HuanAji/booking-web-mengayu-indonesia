@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Navlink from "@/component/navbar/navlink";
+import Navlink from "@/components/navbar/navlink";
 
 const navbar = () => {
   return (
